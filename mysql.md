@@ -28,11 +28,11 @@ desc product; -- 查看表信息
 
 ## 比较
 
-![mysql1](D:\文档\文档\java\mysql1.png)
+![mysql1](.\mysql1.png)
 
 ### 非符号运算符
 
-![mysql2](D:\文档\文档\java\mysql2.png)
+![mysql2](.\mysql2.png)
 
 ## 顺序
 
@@ -42,7 +42,7 @@ desc product; -- 查看表信息
 
 ## 连接
 
-![mysql3](D:\文档\文档\java\mysql3.png)
+![mysql3](.\mysql3.png)
 
 ## 索引
 
